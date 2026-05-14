@@ -13,7 +13,8 @@ This repository contains Activity 4 and Activity 5 outputs related to UML design
 
 - Activity 4 – Design Your Own System Using UML
 
-            This activity focuses on creating UML diagrams, applying SDLC concepts, and designing a simple system using Use Case and Activity Diagrams. 
+            This activity focuses on creating UML diagrams, applying SDLC concepts, and designing a simple system using Use Case and Activity Diagrams.
+           PS. The PDF file is attached in the first folder of the repository.
 
 - Activity 5 – Building and Integrating a Laravel Application with APIs
 
