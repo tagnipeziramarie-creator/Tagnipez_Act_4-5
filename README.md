@@ -1,5 +1,7 @@
 Student Name: Ira Marie A. Tagnipez
+
 Course & Section: BSIT 3-B
+
 Subject Name: SIA 2
 
 
